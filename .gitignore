@@ -1,0 +1,16 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Local editor files
+.vs/
+.vscode/
+
+# Optional source-art working files
+SourceArt/
+
+# Optional bundled assets kept locally but excluded from future commits
+/Content/StarterBundle/
+/Content/ParagonWraith/
