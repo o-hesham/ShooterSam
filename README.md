@@ -2,7 +2,7 @@
 
 ShooterSam is a third-person shooter prototype built with Unreal Engine 5.6. It combines C++ gameplay code with Blueprint-authored characters, weapons, UI, AI, and levels.
 
-![ShooterSam gameplay](assets/samshooter.gif)
+![ShooterSam gameplay](https://media.githubusercontent.com/media/o-hesham/ShooterSam/main/assets/samshooter.gif)
 
 ## Highlights
 
